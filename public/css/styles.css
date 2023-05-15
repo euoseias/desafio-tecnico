@@ -1,0 +1,122 @@
+/* General */
+* {
+  font-family: 'Roboto';
+}
+
+body {
+  min-height: 100vh;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+header {
+  background-color: #FFF;
+  border-bottom: 1px solid #CCC;
+}
+
+.row {
+  margin: 0;
+}
+
+.btn-primary {
+  background-color: #F2A340;
+  border: 2px solid #C28008;
+  width: 100%;
+}
+
+.btn-primary:hover {
+  background-color: #C28008;
+  border-color: #C28008;
+
+}
+
+.btn-info {
+
+  margin-left: 29%;
+  width: 45%;
+}
+
+
+/* navbar */
+#navbar img {
+  width: 70px;
+}
+
+#navbar {
+  justify-content: space-between;
+  background-color: #FFF;
+  padding: 5px 0;
+}
+
+/* footer */
+footer {
+  text-align: center;
+  background-color: #ec2c2c;
+  color: #FFF;
+  padding: 30px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin-bottom: 0;
+}
+
+.myDiv {
+  text-align: center;
+  width: 100%;
+}
+
+
+ol {
+  list-style-type: lower-roman;
+}
+
+ol li {
+  color: #666666;
+  font-family: Georgia;
+}
+
+form {
+  width: 100%;
+  max-width: 700px;
+}
+
+ol li {
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  width: 100%;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+
+  display: block;
+  margin-bottom: 10px;
+  color: #41414d
+}
+
+h1 {
+  font-family: Calibri (Corpo);
+  text-align: center;
+}
+
+h2 {
+  color: #2432f3ef;
+ background-color: #fffae0;
+  font-family: Calibri (Corpo);
+  text-align: center;
+}
+
+h5 {
+  color: #ec2c2c;
+ background-color: #fcf5ce;
+  font-family: Calibri (Corpo);
+  text-align: center;
+}
+
+
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
